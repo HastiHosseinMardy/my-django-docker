@@ -21,3 +21,5 @@ A minimal Django backend project running inside Docker. Built as an onboarding p
    ```bash
    git clone [https://github.com/HastiHosseinMardy/my-django-docker.git](https://github.com/HastiHosseinMardy/my-django-docker.git)
    cd my-django-docker
+
+- **Admin Account Initialized:** Created an initial Django superuser account (`admin`) for secure administrative access via `/admin`.
